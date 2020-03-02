@@ -1,0 +1,11 @@
+﻿{ "NAME" : "LKPROPERTIES",  "SCHEMATYPE" : "DICTIONARIES", "COMMAND" :
+	{ 
+		"ROWHEADERS" : "MAINLABEL" ,
+		"PAGINATION" : "False" ,
+		"PAGE_NUMBER" : "1" ,
+		"RECORDS_FOR_PAGE" : "10" ,
+		"CUSTOM_VARS" : "" ,
+		"OUTPUT_FORMAT" : "TABLE" ,
+		"FILE_NAME" : "LK.ORDERS" 
+	}
+}

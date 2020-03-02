@@ -1,0 +1,12 @@
+﻿{ "NAME" : "LKSCHEMAS", "SCHEMATYPE" : "LKSCHEMAS" , "COMMAND" :
+	{ 
+		"ROWPROPERTIES" : "False" ,
+		"ONLYVISIBLES" : "False" ,
+		"ROWHEADERS" : "MAINLABEL" ,
+		"PAGINATION" : "False" ,
+		"PAGE_NUMBER" : "1" ,
+		"RECORDS_FOR_PAGE" : "10" ,
+		"CUSTOM_VARS" : "" ,
+		"OUTPUT_FORMAT" : "TABLE"
+	}
+}

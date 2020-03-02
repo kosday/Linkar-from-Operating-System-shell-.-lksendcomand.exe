@@ -1,0 +1,10 @@
+﻿{ "NAME" : "LKSCHEMAS", "SCHEMATYPE" : "SQLMODE", "COMMAND" :
+	{ 
+		"ONLYVISIBLES" : "False" ,
+		"PAGINATION" : "False" ,
+		"PAGE_NUMBER" : "1" ,
+		"RECORDS_FOR_PAGE" : "10" ,
+		"CUSTOM_VARS" : "" ,
+		"OUTPUT_FORMAT" : "TABLE"
+	}
+}

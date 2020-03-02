@@ -1,0 +1,17 @@
+﻿{ "NAME" : "GETTABLE", "SCHEMATYPE" : "NONE", "COMMAND" :
+	{ 
+		"ROWHEADERS" : "MAINLABEL" ,
+		"REPEATVALUES" : "False" ,
+		"APPLYCONVERSION" : "False" ,
+		"APPLYFORMAT" : "False" ,
+		"CALCULATED" : "False" ,				
+		"PAGINATION" : "False" ,
+		"PAGE_NUMBER" : "1" ,
+		"RECORDS_FOR_PAGE" : "10" ,
+		"CUSTOM_VARS" : "" ,
+		"FILE_NAME" : "LK.CUSTOMERS" ,
+		"SELECT_CLAUSE" : "" ,
+		"SORT_CLAUSE" : "", 
+		"DICT_CLAUSE" : ""
+	}
+}

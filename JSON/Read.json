@@ -1,0 +1,18 @@
+﻿{
+  "NAME": "READ",
+  "COMMAND": {
+    "CALCULATED": "False",
+    "DICTIONARIES": "False",
+    "CONVERSION": "False",
+    "FORMAT_SPEC": "False",
+    "ORIGINAL_RECORDS": "False",
+    "CUSTOM_VARS": "",
+    "OUTPUT_FORMAT": "MV",
+    "FILE_NAME": "LK.CUSTOMERS",
+    "RECORD_IDS": [
+      { "ID": "2" },
+      { "ID": "3" }
+    ],
+    "RECORD_DICTCLAUSE": ""
+  }
+}

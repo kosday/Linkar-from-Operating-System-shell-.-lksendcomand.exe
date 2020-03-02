@@ -1,0 +1,9 @@
+﻿{
+  "NAME": "FORMAT",
+  "COMMAND": {
+    "FORMAT_SPEC": "R#10",
+    "EXPRESSIONS": "1þ2",
+    "CUSTOM_VARS": "",
+    "OUTPUT_FORMAT": "MV"
+  }
+}

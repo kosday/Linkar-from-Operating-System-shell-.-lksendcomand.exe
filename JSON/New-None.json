@@ -1,0 +1,24 @@
+﻿{
+  "NAME": "NEW",
+  "COMMAND": {
+    "READ_AFTER": "True",
+    "CALCULATED": "True",
+    "DICTIONARIES": "False",
+    "CONVERSION": "False",
+    "FORMAT_SPEC": "False",
+    "ORIGINAL_RECORDS": "False",
+    "NEW_RECORD_ID_TYPE": "NONE",
+    "CUSTOM_VARS": "",
+    "INPUT_FORMAT": "MV",
+    "OUTPUT_FORMAT": "MV",
+    "FILE_NAME": "LK.CUSTOMERS",
+    "RECORD_IDS": [
+      { "ID": "A99" },
+      { "ID": "B99" }
+    ],
+    "RECORD_LIST": [
+      { "RECORD": "NEW A CUSTOMER þADDRESS 2þ444 - 444 - 444" },
+      { "RECORD": "NEW B CUSTOMER þADDRESS 2þ444 - 444 - 444" }
+    ]
+  }
+}

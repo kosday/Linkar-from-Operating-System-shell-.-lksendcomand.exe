@@ -1,0 +1,10 @@
+﻿{
+  "NAME": "CONVERSION",
+  "COMMAND": {
+    "TYPE": "OCONV",
+    "CODE": "D2-",
+    "EXPRESSIONS": "13220þ13333",
+    "CUSTOM_VARS": "",
+    "OUTPUT_FORMAT": "MV"
+  }
+}

@@ -1,0 +1,26 @@
+﻿{
+  "NAME": "UPDATE",
+  "COMMAND": {
+    "READ_AFTER": "True",
+    "CALCULATED": "False",
+    "DICTIONARIES": "False",
+    "CONVERSION": "False",
+    "FORMAT_SPEC": "False",
+    "ORIGINAL_RECORDS": "False",
+    "OPTIMISTIC_LOCK": "False",
+    "CUSTOM_VARS": "",
+    "INPUT_FORMAT": "MV",
+    "OUTPUT_FORMAT": "MV",
+    "FILE_NAME": "LK.CUSTOMERS",
+    "RECORD_IDS": [
+      { "ID": "2" },
+      { "ID": "3" }
+    ],
+    "RECORD_LIST": [
+      { "RECORD": "UPDATED CUSTOMER 2þADDRESS 2þ444 - 444 - 444" },
+      { "RECORD": "UPDATED CUSTOMER 2þADDRESS 2þ444 - 444 - 444" }
+    ],
+    "ORIGINAL_RECORD_LIST": [
+    ]
+  }
+}

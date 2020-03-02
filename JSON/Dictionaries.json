@@ -1,0 +1,8 @@
+﻿{
+  "NAME": "DICTIONARIES",
+  "COMMAND": {
+    "FILE_NAME": "LK.CUSTOMERS",
+    "CUSTOM_VARS": "",
+    "OUTPUT_FORMAT": "MV"
+  }
+}

@@ -1,0 +1,8 @@
+﻿{
+  "NAME": "EXECUTE",
+  "COMMAND": {
+    "STATEMENT": "WHO",
+    "CUSTOM_VARS": "",
+    "OUTPUT_FORMAT": "MV"
+  }
+}

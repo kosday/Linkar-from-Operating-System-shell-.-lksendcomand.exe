@@ -1,0 +1,17 @@
+﻿{
+  "NAME": "DELETE",
+  "COMMAND": {
+    "OPTIMISTIC_LOCK": "False",
+    "RECOVER_RECORD_ID_TYPE": "NONE",
+    "CUSTOM_VARS": "",
+    "INPUT_FORMAT": "MV",
+    "OUTPUT_FORMAT": "MV",
+    "FILE_NAME": "LK.CUSTOMERS",
+    "RECORD_IDS": [
+      { "ID": "A99" },
+      { "ID": "B99" }
+    ],
+    "ORIGINAL_RECORD_LIST": [
+    ]
+  }
+}

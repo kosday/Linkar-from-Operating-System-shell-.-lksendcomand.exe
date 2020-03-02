@@ -1,0 +1,14 @@
+﻿{
+  "NAME": "SUBROUTINE",
+  "COMMAND": {
+    "SUBROUTINE_NAME": "SUB.DEMOLINKAR",
+    "NUMBER_OF_ARGUMENTS": "3",
+    "ARGUMENTS": [
+      { "ARGUMENT": "0" },
+      { "ARGUMENT": "%LINKAR.RECORD.SESSION%" },
+      { "ARGUMENT": "" }
+    ],
+    "CUSTOM_VARS": "",
+    "OUTPUT_FORMAT": "MV"
+  }
+}
