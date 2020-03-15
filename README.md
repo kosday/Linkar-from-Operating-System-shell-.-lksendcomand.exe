@@ -1,4 +1,4 @@
-# Linkar from Operating System shell. lksendcomand.exe
+# Linkar from Operating System shell. lksendcomand command
 
 This demo is an script (cmd or sh) that shows the working of several calls to the lksendcommand.exe executable with different arguments.
 
