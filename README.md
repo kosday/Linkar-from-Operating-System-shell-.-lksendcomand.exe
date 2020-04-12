@@ -1,5 +1,7 @@
 # Linkar from Operating System shell. lksendcomand command
 
+executable in https://kosday.com/resources/
+
 This demo is an script (cmd or sh) that shows the working of several calls to the lksendcommand.exe executable with different arguments.
 
 For each call to the executable a direct call of the LinkarClient SendCommand will be made and it will return the required information in the requested format.
