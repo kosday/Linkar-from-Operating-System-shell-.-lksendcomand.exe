@@ -1,5 +1,6 @@
 # Linkar desde el shlel del Sistema Operativo. Comando lksendcomand
 
+ejecutable en https://kosday.com/resources/
 
 Esta demo es un script (cmd o sh) que muestra el funcionamiento de una batería de llamadas al ejecutable lksendcommand.exe con diferentes argumentos. 
 
