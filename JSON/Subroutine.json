@@ -9,6 +9,6 @@
       { "ARGUMENT": "" }
     ],
     "CUSTOM_VARS": "",
-    "OUTPUT_FORMAT": "MV"
+    "OUTPUT_FORMAT": "JSON"
   }
 }

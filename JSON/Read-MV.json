@@ -6,15 +6,9 @@
     "FORMAT_SPEC": "False",
     "ORIGINAL_RECORDS": "False",
     "CUSTOM_VARS": "",
-    "OUTPUT_FORMAT": "JSON",
+    "OUTPUT_FORMAT": "MV",
     "FILE_NAME": "LK.CUSTOMERS",
     "DICT_CLAUSE": "",
-    "RECORDS":[
-      {
-        "LKITEMID": "2"
-      }, {
-        "LKITEMID": "3"
-      }
-    ]
+    "RECORDS": "Mh4z"
   }
 }

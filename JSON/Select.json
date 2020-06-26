@@ -2,7 +2,6 @@
   "NAME": "SELECT",
   "COMMAND": {
     "CALCULATED": "True",
-    "DICTIONARIES": "False",
     "CONVERSION": "False",
     "FORMAT_SPEC": "False",
     "ORIGINAL_RECORDS": "False",
@@ -11,7 +10,7 @@
     "PAGE_NUMBER": "1",
     "RECORDS_FOR_PAGE": "10",
     "CUSTOM_VARS": "",
-    "OUTPUT_FORMAT": "MV",
+    "OUTPUT_FORMAT": "JSON",
     "FILE_NAME": "LK.CUSTOMERS",
     "SELECT_CLAUSE": "WITH NAME = \" [ \"CUSTOMER\" ] \"",
     "SORT_CLAUSE": "BY NAME",

@@ -3,7 +3,6 @@
   "COMMAND": {
     "READ_AFTER": "True",
     "CALCULATED": "True",
-    "DICTIONARIES": "False",
     "CONVERSION": "False",
     "FORMAT_SPEC": "False",
     "ORIGINAL_RECORDS": "False",
@@ -11,12 +10,22 @@
     "NEW_RECORD_ID_LENGTH": "10",
     "NEW_RECORD_ID_NUMERIC": "False",
     "CUSTOM_VARS": "",
-    "INPUT_FORMAT": "MV",
-    "OUTPUT_FORMAT": "MV",
+    "INPUT_FORMAT": "JSON",
+    "OUTPUT_FORMAT": "JSON",
     "FILE_NAME": "LK.CUSTOMERS",
-    "RECORD_LIST": [
-      { "RECORD": "NEW A CUSTOMER þADDRESS 2þ444 - 444 - 444" },
-      { "RECORD": "NEW B CUSTOMER þADDRESS 2þ444 - 444 - 444" }
+    "RECORDS":
+    [
+      {
+        "LKITEMID": "",
+        "NAME": "NEW A CUSTOMER",
+        "ADDR": "ADDRESS 2",
+        "PHONE": "444 - 444 - 444"
+      }, {
+        "LKITEMID": "",
+        "NAME": "NEW B CUSTOMER",
+        "ADDR": "ADDRESS 3",
+        "PHONE": "444 - 444 - 444"
+      }
     ]
   }
 }

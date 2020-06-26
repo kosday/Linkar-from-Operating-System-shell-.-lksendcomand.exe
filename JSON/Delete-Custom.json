@@ -4,14 +4,17 @@
     "OPTIMISTIC_LOCK": "False",
     "RECOVER_RECORD_ID_TYPE": "CUSTOM",
     "CUSTOM_VARS": "",
-    "INPUT_FORMAT": "MV",
-    "OUTPUT_FORMAT": "MV",
+    "OUTPUT_FORMAT": "JSON",
     "FILE_NAME": "LK.CUSTOMERS",
-    "RECORD_IDS": [
-      { "ID": "107" },
-      { "ID": "108" }
-    ],
-    "ORIGINAL_RECORD_LIST": [
+    "RECORDS": [
+      { 
+        "LKITEMID": "107",
+        "ORIGINAL_RECORD": ""
+      },
+      { 
+        "LKITEMID": "108",
+        "ORIGINAL_RECORD": ""
+      }
     ]
   }
 }

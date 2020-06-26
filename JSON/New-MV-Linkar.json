@@ -11,22 +11,9 @@
     "NEW_RECORD_ID_PREFIX": "",
     "NEW_RECORD_ID_SEPARATOR": "",
     "CUSTOM_VARS": "",
-    "INPUT_FORMAT": "JSON",
-    "OUTPUT_FORMAT": "JSON",
+    "INPUT_FORMAT": "MV",
+    "OUTPUT_FORMAT": "MV",
     "FILE_NAME": "LK.CUSTOMERS",
-    "RECORDS":
-    [
-      {
-        "LKITEMID": "",
-        "NAME": "NEW A CUSTOMER",
-        "ADDR": "ADDRESS 2",
-        "PHONE": "444 - 444 - 444"
-      }, {
-        "LKITEMID": "",
-        "NAME": "NEW B CUSTOMER",
-        "ADDR": "ADDRESS 3",
-        "PHONE": "444 - 444 - 444"
-      }
-    ]
+    "RECORDS": "HhxORVcgQSBDVVNUT01FUsO+QUREUkVTUyAyw740NDQgLSA0NDQgLSA0NDQeTkVXIEIgQ1VTVE9NRVLDvkFERFJFU1MgM8O+NDQ0IC0gNDQ0IC0gNDQ0"
   }
 }

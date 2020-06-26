@@ -6,17 +6,8 @@
     "RECOVER_RECORD_ID_PREFIX": "",
     "RECOVER_RECORD_ID_SEPARATOR": "",
     "CUSTOM_VARS": "",
-    "OUTPUT_FORMAT": "JSON",
+    "OUTPUT_FORMAT": "MV",
     "FILE_NAME": "LK.CUSTOMERS",
-    "RECORDS": [
-      { 
-        "LKITEMID": "107",
-        "ORIGINAL_RECORD": ""
-      },
-      { 
-        "LKITEMID": "108",
-        "ORIGINAL_RECORD": ""
-      }
-    ]
+    "RECORDS": "MTA3HjEwOBwe"
   }
 }

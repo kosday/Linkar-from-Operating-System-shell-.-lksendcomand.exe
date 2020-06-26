@@ -4,7 +4,7 @@
 		"REPEATVALUES" : "False" ,
 		"APPLYCONVERSION" : "False" ,
 		"APPLYFORMAT" : "False" ,
-		"CALCULATED" : "False" ,				
+		"CALCULATED" : "False" ,
 		"PAGINATION" : "False" ,
 		"PAGE_NUMBER" : "1" ,
 		"RECORDS_FOR_PAGE" : "10" ,
