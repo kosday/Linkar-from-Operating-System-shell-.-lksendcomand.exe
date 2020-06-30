@@ -3,6 +3,6 @@
   "COMMAND": {
     "FILE_NAME": "LK.CUSTOMERS",
     "CUSTOM_VARS": "",
-    "OUTPUT_FORMAT": "JSON"
+    "OUTPUT_FORMAT": "MV"
   }
 }
